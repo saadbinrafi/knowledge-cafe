@@ -1,53 +1,53 @@
 [
     {
-      "ID": "001", 
-      "Cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
-      "Title": "The Mystery of the Forgotten Forest",
-      "Author": "muhammad hasan",
-      "AuthorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
-      "PostedDate": "April 3, 2024",
-      "ReadingTime": 10,
-      "Hashtags": ["#mystery", "#adventure", "#fiction"]
+      "id": "1", 
+      "cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
+      "title": "The Mystery of the Forgotten Forest",
+      "author": "muhammad hasan",
+      "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
+      "postedDate": "April 3, 2024",
+      "readingTime": 10,
+      "hashtags": ["#mystery", "#adventure", "#fiction"]
     },
     {
-      "ID": "002",
-      "Cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
-      "Title": "Beyond the Horizon",
-      "Author": "sara zaman",
-      "AuthorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
-      "PostedDate": "March 29, 2024",
-      "ReadingTime": 15,
-      "Hashtags": ["#sci-fi", "#exploration", "#future"]
+      "id": "2",
+      "cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
+      "title": "Beyond the Horizon",
+      "author": "sara zaman",
+      "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
+      "postedDate": "March 29, 2024",
+      "readingTime": 15,
+      "hashtags": ["#sci-fi", "#exploration", "#future"]
     },
     {
-      "ID": "003",
-      "Cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
-      "Title": "The Art of Simplicity",
-      "Author": "saifa rahman",
-      "AuthorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
-      "PostedDate": "April 1, 2024",
-      "ReadingTime": 8,
-      "Hashtags": ["#selfhelp", "#mindfulness", "#simplicity"]
+      "id": "3",
+      "cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
+      "title": "The Art of Simplicity",
+      "author": "saifa rahman",
+      "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
+      "postedDate": "April 1, 2024",
+      "readingTime": 8,
+      "hashtags": ["#selfhelp", "#mindfulness", "#simplicity"]
     },
     {
-      "ID": "004",
-      "Cover":"https://i.ibb.co/tppyL89/coverimg.jpg",
-      "Title": "Echoes of Eternity",
-      "Author": "khaled saifullah",
-      "AuthorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
-      "PostedDate": "April 5, 2024",
-      "ReadingTime": 12,
-      "Hashtags": ["#fantasy", "#magic", "#epic"]
+      "id": "4",
+      "cover":"https://i.ibb.co/tppyL89/coverimg.jpg",
+      "title": "Echoes of Eternity",
+      "author": "khaled saifullah",
+      "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
+      "postedDate": "April 5, 2024",
+      "readingTime": 12,
+      "hashtags": ["#fantasy", "#magic", "#epic"]
     },
     {
-      "ID": "005",
-      "Cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
-      "Title": "Finding Serenity",
-      "Author": "safwan",
-      "AuthorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
-      "PostedDate": "March 30, 2024",
-      "ReadingTime": 7,
-      "Hashtags": ["#travel", "#nature", "#inspiration"]
+      "id": "5",
+      "cover": "https://i.ibb.co/tppyL89/coverimg.jpg",
+      "title": "Finding Serenity",
+      "author": "safwan",
+      "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
+      "postedDate": "March 30, 2024",
+      "readingTime": 7,
+      "hashtags": ["#travel", "#nature", "#inspiration"]
     }
   ]
   

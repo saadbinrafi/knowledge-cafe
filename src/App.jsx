@@ -13,8 +13,8 @@ function App() {
       <Header></Header>
       
       <div className='md:flex'>
-      <Blogs></Blogs>
-      <Bookmarks></Bookmarks>
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
       </div>
       
       
