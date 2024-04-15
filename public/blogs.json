@@ -6,8 +6,8 @@
       "author": "muhammad hasan",
       "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
       "postedDate": "April 3, 2024",
-      "readingTime": 10,
-      "hashtags": ["#mystery", "#adventure", "#fiction"]
+      "reading_time": 10,
+      "hashtags": ["mystery", "adventure", "fiction"]
     },
     {
       "id": "2",
@@ -16,8 +16,8 @@
       "author": "sara zaman",
       "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
       "postedDate": "March 29, 2024",
-      "readingTime": 15,
-      "hashtags": ["#sci-fi", "#exploration", "#future"]
+      "reading_time": 15,
+      "hashtags": ["scifi", "exploration", "future"]
     },
     {
       "id": "3",
@@ -26,8 +26,8 @@
       "author": "saifa rahman",
       "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
       "postedDate": "April 1, 2024",
-      "readingTime": 8,
-      "hashtags": ["#selfhelp", "#mindfulness", "#simplicity"]
+      "reading_time": 8,
+      "hashtags": ["selfhelp", "mindfulness", "simplicity"]
     },
     {
       "id": "4",
@@ -36,8 +36,8 @@
       "author": "khaled saifullah",
       "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
       "postedDate": "April 5, 2024",
-      "readingTime": 12,
-      "hashtags": ["#fantasy", "#magic", "#epic"]
+      "reading_time": 12,
+      "hashtags": ["fantasy", "magic", "epic"]
     },
     {
       "id": "5",
@@ -46,8 +46,8 @@
       "author": "safwan",
       "authorImg": "https://i.ibb.co/wJKZ58n/author-picture.jpg",
       "postedDate": "March 30, 2024",
-      "readingTime": 7,
-      "hashtags": ["#travel", "#nature", "#inspiration"]
+      "reading_time": 7,
+      "hashtags": ["travel", "nature", "inspiration"]
     }
   ]
   
